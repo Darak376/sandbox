@@ -1,0 +1,115 @@
+.container {
+  display: flex;
+  background-color: black;
+  justify-content: space-between;
+  margin: 10px;
+}
+.item1 {
+  background-color: aqua;
+  margin: 10px;
+  height: 50px;
+  width: 50%;
+}
+.item2 {
+  background-color: aqua;
+  margin: 10px;
+  height: 50px;
+  width: 50%;
+}
+
+.container2 {
+  display: flex;
+  background-color: black;
+  justify-content: space-between;
+}
+.item3 {
+  background-color: aqua;
+  flex-direction: row;
+  margin: 15px;
+  height: 50px;
+  width: 50%;
+}
+.item4 {
+  background-color: aqua;
+  flex-direction: row;
+  margin: 15px;
+  height: 50px;
+  width: 50%;
+}
+.item5 {
+  background-color: aqua;
+  margin: 15px;
+  height: 50px;
+  width: 50%;
+}
+.container3 {
+  display: flex;
+  background-color: black;
+  justify-content: space-between;
+  padding: 12px;
+}
+.item6 {
+  background-color: aqua;
+  margin: 12px;
+  height: 50px;
+  width: 100%;
+  border: 2px solid black;
+}
+.item7 {
+  background-color: aqua;
+  margin: 12px;
+  height: 50px;
+  width: 50%;
+  border: 2px solid black;
+}
+.container4 {
+  display: flex;
+  background-color: black;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.item9 {
+  background-color: aqua;
+  margin: 12px;
+  height: 50px;
+  width: 50%;
+  border: 2px solid black;
+}
+.item10 {
+  background-color: aqua;
+  margin: 12px;
+  height: 50px;
+  width: 50%;
+  border: 2px solid black;
+}
+.item11 {
+  background-color: aqua;
+  flex-direction: row;
+  margin: 12px;
+  height: 50px;
+  width: 50%;
+  border: 2px solid black;
+}
+.item12 {
+  background-color: aqua;
+  flex-direction: row;
+  margin: 12px;
+  height: 50px;
+  width: 50%;
+  border: 2px solid black;
+}
+.container5 {
+  display: flex;
+  background-color: black;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.item13 {
+  background-color: aqua;
+  flex-direction: row;
+  margin: 12px;
+  height: 50px;
+  width: 50%;
+  flex-grow: 4;
+  border: 2px solid black;
+}
